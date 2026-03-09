@@ -28,12 +28,6 @@
 
 ## 📦 如何安装与运行
 
-### 1. 克隆代码
-bash
-git clone [https://github.com/ferielda/smarthome-pro.git](https://github.com/ferielda/smarthome-pro.git)
-cd smarthome-pro
-
-```
 
 ### 1. 克隆代码
 
