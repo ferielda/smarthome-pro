@@ -1,0 +1,5 @@
+{
+  "name": "SmartHome Pro",
+  "description": "A modern smart home management application with device control, scenes, and profile management.",
+  "requestFramePermissions": []
+}
