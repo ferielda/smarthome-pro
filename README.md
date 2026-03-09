@@ -35,6 +35,16 @@ cd smarthome-pro
 
 ```
 
+### 1. 克隆代码
+
+```bash
+git clone [https://github.com/ferielda/smarthome-pro.git](https://github.com/ferielda/smarthome-pro.git)
+cd smarthome-pro
+
+
+```
+
+
 ### 2. 安装依赖
 
 确保你的电脑已安装 [Node.js (v18+)](https://nodejs.org/)：
