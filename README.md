@@ -29,7 +29,7 @@
 ## 📦 如何安装与运行
 
 ### 1. 克隆代码
-```bash
+bash
 git clone [https://github.com/ferielda/smarthome-pro.git](https://github.com/ferielda/smarthome-pro.git)
 cd smarthome-pro
 
@@ -73,7 +73,4 @@ npm run dev
 
 *如果你觉得这个项目对你有帮助，欢迎点个 Star ⭐！*
 
-```
-
----
 
